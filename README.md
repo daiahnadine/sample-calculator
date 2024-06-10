@@ -1,2 +1,2 @@
 # sample-calculator
-This is a sample calculator project where I used python, html, and css.
+This is a sample calculator project where I used python, javascript, html, and css.
